@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "330430221723",
+    "project_id": "alindor-9a75b",
+    "storage_bucket": "alindor-9a75b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330430221723:android:8147406a35480e87f7e53e",
+        "android_client_info": {
+          "package_name": "com.alindor_assessment.alindor_assessment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330430221723-nln2l4p39udvag197o124okkc02273aa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB4Up8JygrZywJ-zq4peFnD0QpurUe_tc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330430221723-nln2l4p39udvag197o124okkc02273aa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
