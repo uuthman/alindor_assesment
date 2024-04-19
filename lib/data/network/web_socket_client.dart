@@ -20,7 +20,7 @@ class WebSocketClient {
     channel = IOWebSocketChannel.connect(
         url,
         headers: {
-          "Authorization": "Token 7967640dbd81fbd386beb5cf95a0f8124f30d6f6"
+          "Authorization": "Token "
         });
     debugPrint("Connected");
     channel?.stream.listen((event) {
